@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "894707267212",
+    "firebase_url": "https://student-bf5bc-default-rtdb.firebaseio.com",
+    "project_id": "student-bf5bc",
+    "storage_bucket": "student-bf5bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894707267212:android:ff5915a9d7af9d43ec2da9",
+        "android_client_info": {
+          "package_name": "com.example.flutter_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894707267212-bq5snro42e03spq4bsla52uucftlcq40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsJqcSrcQK4PkmBlZohqH5yJgOqOMus9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894707267212-bq5snro42e03spq4bsla52uucftlcq40.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
